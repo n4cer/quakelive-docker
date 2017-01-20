@@ -1,0 +1,37 @@
+# specify 1 map per line, mapname|factoryid
+# ex: aerowalk|ffa
+# see factories.txt for valid factory id values
+bloodrun|duel
+aerowalk|duel
+battleforged|duel
+blackcathedral|duel
+campgrounds|duel
+concretepalace|duel
+cure|duel
+deepinside|duel
+delirium|duel
+dismemberment|duel
+dreadfulplace|duel
+elder|duel
+focalpoint|duel
+furiousheights|duel
+fuse|duel
+hektik|duel
+houseofdecay|duel
+intervention|duel
+leviathan|duel
+mcsarges|duel
+phrantic|duel
+purgatory|duel
+realmofsteelrats|duel
+refinery|duel
+silence|duel
+sinister|duel
+solarium|duel
+sorrow|duel
+theedge|duel
+theepicenter|duel
+toxicity|duel
+useandabuse|duel
+verticalvengeance|duel
+wicked|duel

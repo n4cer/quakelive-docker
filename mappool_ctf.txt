@@ -1,0 +1,23 @@
+# specify 1 map per line, mapname|factoryid
+# ex: aerowalk|ffa
+# see factories.txt for valid factory id values
+japanesecastles|ctf
+troubledwaters|ctf
+basesiege|ctf
+beyondreality|ctf
+bloodlust|ctf
+duelingkeeps|ctf
+stronghold|ctf
+spacectf|ctf
+innersanctums|ctf
+scornforge|ctf
+vortexportal|ctf
+rebound|ctf
+falloutbunker|ctf
+ironworks|ctf
+siberia|ctf
+courtyard|ctf
+stonekeep|ctf
+shiningforces|ctf
+industrialaccident|ctf
+qzteam666|ctf
