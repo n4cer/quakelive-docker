@@ -1,7 +1,7 @@
 # QuakeLive docker container
 
 ## QL server in 5 minutes
-* `git clone https://github.com/marconett/quakelive-docker`
+* `git clone https://github.com/n4cer/quakelive-docker`
 * Put your SteamID into `access.txt` for admin access
 * Put the Workshop ItemID of the addons you want into `workshop.txt`
 * Define mappools (all `.txt` files will be copied to the container)
