@@ -2,7 +2,7 @@
 
 # Defaults according to server.cfg:
 
-gameport=`expr $1 + 27960`
+gameport=`expr $1 + 27015`
 rconport=`expr $1 + 28960`
 servernum=`expr $1 + 1`
 
